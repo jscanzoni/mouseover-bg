@@ -3,4 +3,9 @@ Throwback to my first online code contribution: a quick script on JavaScriptSour
 
 Try it: http://scnz.co/mouseover-bg/
 
-Original source: http://www.javascriptsource.com/image-effects/mouseover-bg-selector.html
+![](http://scnz.co/mouseover-bg/alert.png)
+
+
+
+
+Original post: http://www.javascriptsource.com/image-effects/mouseover-bg-selector.html
