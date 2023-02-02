@@ -8,4 +8,4 @@ Try it: http://scnz.co/mouseover-bg/
 
 
 
-Original post: https://web.archive.org/web/20150906210702/http://www.javascriptsource.com/image-effects/mouseover-bg-selector.html
+Original post on Wayback Machine: [http://www.javascriptsource.com/image-effects/mouseover-bg-selector.html](https://web.archive.org/web/20150906210702/http://www.javascriptsource.com/image-effects/mouseover-bg-selector.html)
